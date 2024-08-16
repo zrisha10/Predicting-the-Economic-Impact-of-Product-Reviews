@@ -20,13 +20,6 @@ database.sqlite: Contains the table 'Reviews'
     - 256,059 users
     - 74,258 products
     - 260 users with > 50 reviews
-    
-- **Acknowledgements**  
-See this SQLite query for a quick sample of the dataset.  
-
-If you publish articles based on this dataset, please cite the following paper:  
-
-J. McAuley and J. Leskovec. From amateurs to connoisseurs: modeling the evolution of user expertise through online reviews. WWW, 2013.  
 
 
 ## About the Dataset 
