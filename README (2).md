@@ -1,4 +1,4 @@
-# Amazon fine food review
+# Product Reviews
 
 This repopsistory contains various data analysis technique and subsequent models based on [Amazon fine food review dataset](https://www.kaggle.com/snap/amazon-fine-food-reviews) 
 
